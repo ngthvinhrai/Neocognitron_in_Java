@@ -1,3 +1,4 @@
+To run project, run this file: "src/UX/QuanLyCuaSo.java".<br />
 This is project I worked with my friends to re-build Neocognitron by Fukushima. This project followed 2 papers in 1980 and 1982.<br />
 The result is not good too much, it can predict more than 50% of test dataset but can't predict character "K".<br />
 Training dataset: dataset5.<br />
