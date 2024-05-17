@@ -1,7 +1,12 @@
-This is project i worked with my friends to re-build Neocognitron by Fukushima. This project followed 2 papers in 1980 and 1982.
-The result is not good too much, it can predict more than 50% of test dataset but can't predict character "K".
-Training dataset: dataset5
-Test dataset: dataset3
+This is project i worked with my friends to re-build Neocognitron by Fukushima. This project followed 2 papers in 1980 and 1982.<br />
+The result is not good too much, it can predict more than 50% of test dataset but can't predict character "K".<br />
+Training dataset: dataset5.<br />
+Test dataset: dataset3.<br />
+Some features model have learned:
+
+![alt text](https://github.com/ngthvinhrai/Neocognitron_in_Java/blob/main/features.png)
+
+
 Result: ("Charater": Class)
   "A": 9
   "B": 12
@@ -29,4 +34,3 @@ Result: ("Charater": Class)
   "X": 16
   "Y": 8
   "Z": 21
-
