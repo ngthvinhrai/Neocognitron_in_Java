@@ -1,14 +1,15 @@
-To run project, run this file: "src/UX/QuanLyCuaSo.java".<br />
+To run project, run this file: _"src/UX/QuanLyCuaSo.java"_.<br />
 This is project I worked with my friends to re-build Neocognitron by Fukushima. This project followed 2 papers in 1980 and 1982.<br />
 The result is not good too much, it can predict more than 50% of test dataset but can't predict character "K".<br />
-Training dataset: dataset5.<br />
-Test dataset: dataset3.<br />
-Some features model have learned:
+Training dataset: _dataset5_.<br />
+Test dataset: _dataset3_.<br />
+
+# Some features that model have learned:
 
 ![alt text](https://github.com/ngthvinhrai/Neocognitron_in_Java/blob/main/features.png)
 
 
-Result: ("Charater": Class)<br />
+# Result: ("Charater": Class)<br />
 &emsp;"A": 9<br />
 &emsp;"B": 12<br />
 &emsp;"C": 19<br />
